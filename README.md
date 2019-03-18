@@ -2,9 +2,7 @@
 <img style="vertical-align:middle" width="75" height="75" src="https://user-images.githubusercontent.com/25130101/38110263-9d836666-33b8-11e8-9902-7940c4cf9469.png"/>   Wifi Strength Finder
 </h1>
 
-![Travis-ci](https://travis-ci.com/Showndarya/Wifi-Strength-Finder.svg?token=J2kV2bU16arvb5GboaQv&branch=master) 
-
-> Android application for MCAN mini project
+> Android application for MCAN. Detects WiFi strength and saves it into a database.
 
 ## Features
 
@@ -23,6 +21,6 @@
 
 **Gives current connection information: Name of network(SSID), IP Address, Link Speed(Mbps) and Signal strength(dBm)**
 
-**Gives a graphical representaion of  signal strength of all the available networks**
+**Saves the currently connected WiFi SSID and its signal strength into a database abd displays the data in a table**
 
 
